@@ -40,7 +40,7 @@ The dashboard transforms raw transactional data into meaningful business insight
 
 ## Dashboard Preview
 
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](dashboard.png)
 
 ---
 
