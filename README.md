@@ -70,29 +70,10 @@ Top 5 Products by Revenue
 Top 10 Cities by Orders
 
 Interactive Filters (Order Date, Delivery Date, Occasion)
-
-Project Structure
-Sales-Analysis-Excel-Project
-│
-├── data/
-│   ├── customers.xlsx
-│   ├── orders.xlsx
-│   └── products.xlsx
-│
-├── dashboard/
-│   └── sales_dashboard.xlsx
-│
-├── problem_statement/
-│   └── business_questions.xlsx
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
-
 Dashboard Preview
 
 Business Value
+
 
 This dashboard enables stakeholders to monitor performance, identify growth opportunities, and optimize operational efficiency through data-driven insights.
 
